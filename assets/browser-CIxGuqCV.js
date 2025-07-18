@@ -1,0 +1,1 @@
+import{b as e,c as t,d as n,e as r,f as i,g as a}from"./index-ozhntPFZ.js";t();export{n as Headers,e as Request,r as Response,i as default,a as fetch};
