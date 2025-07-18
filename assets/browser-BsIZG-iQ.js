@@ -1,1 +1,0 @@
-import{b as e,c as t,d as n,e as r,f as i,g as a}from"./index-CMx3SSmJ.js";r();export{t as Headers,e as Request,n as Response,i as default,a as fetch};
