@@ -1,1 +1,0 @@
-import{b as e,c as t,d as n,e as r,f as i,g as a}from"./index-DCipVETw.js";r();export{n as Headers,e as Request,t as Response,i as default,a as fetch};
